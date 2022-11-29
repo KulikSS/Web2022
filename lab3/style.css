@@ -1,0 +1,13 @@
+button{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+input{
+    font-size: 20px;
+}
+table, th, td {
+    border:1px solid black;
+    padding: 7px;
+    margin: 5px;
+}
