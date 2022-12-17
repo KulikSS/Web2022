@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product><id>1</id><name>Яблочный пирог</name><price>300</price><descr>Овсяная крупа, творог, кефир, яйцо куриное, мёд, яблоко, корица, масло растительное</descr></product>
+    <product><id>2</id><name>Салат с кальмаром</name><price>450</price><descr>Кальмары, огурец, яйцо, лук красный, зелень, горчица</descr></product>
+    <product><id>2</id><name>Курица с овощами</name><price>400</price><descr>Куриное бедро, капуста белокочанная, лук репчатый, морковь, перец болгарский, чеснок</descr></product>
+    <product><id>4</id><name>Пряная скумбрия</name><price>500</price><descr>Скумбрия, имбирь, тмин, перец белый, кориандр, карри</descr></product></products>

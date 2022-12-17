@@ -1,0 +1,69 @@
+body{
+    background: darkseagreen;
+}
+h1{
+    font: bold 40px Montserrat, sans-serif;
+    color: darkgreen;
+    alignment: center;
+}
+table,td,th{
+    border-collapse: collapse;
+    font: 24px "sans-serif";
+    text-align: center;
+    border: 0.5px solid black;
+    padding: 5px;
+    background-color: darkseagreen;
+}
+th{
+    font-weight: bold;
+}
+.prod-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font: bold 24px Montserrat, sans-serif;
+    color: black;
+}
+.items{
+    font: bold 24px Montserrat, sans-serif;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    padding: 5% 5%;
+}
+textarea{
+    resize: none;
+    margin-left: 20px;
+
+}
+
+.prod-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+button{
+    background: darkseagreen;
+    margin-left: 35%;
+    margin-right:65%;
+
+}
+a{
+    text-decoration: none;
+    alignment: center;
+}
+form{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+input{
+    margin-left: 20px;
+}
