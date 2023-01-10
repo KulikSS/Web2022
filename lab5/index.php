@@ -1,9 +1,12 @@
+<?php
+    $GLOBALS['connect'] = new mysqli("localhost", "root", "", "dishes_db");
+?>
 <!doctype html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <link rel = "stylesheet" href="style.css">
-    <title>Lab4</title>
+    <title>lab5</title>
 </head>
 <body>
 <?php
